@@ -1,6 +1,6 @@
 # HTML
 
-## Docs / Manuals
+## Docs
 
 - [W3School](https://www.w3schools.com/html/)
 

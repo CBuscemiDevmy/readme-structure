@@ -10,19 +10,25 @@ A curated list of awesome resources selected by Devmy team!
     - Software Architecture
 - Git
 - Bash
-- [Network](./computer-science/network.md)
 
 ## Web Development
 
+- [Network](./computer-science/network.md)
+- Hosting
+- Dev Tools
+- Package Management
+- Module Bundler
 ### Front-End
 
 - [UX/UI Design](./frontend/design.md)
+    - Storybook
 - [HTML](./frontend/html.md)
 - CSS
 - JavaScript
 - TypeScript
 - Frameworks
     - React.js
+        - Next.js
     - Angular
     - Vue.js
 
@@ -49,6 +55,7 @@ A curated list of awesome resources selected by Devmy team!
 - Unity
 - Unreal Engine
 - Three.js
+- AFrame
 
 ## Project Management
 - Agile
