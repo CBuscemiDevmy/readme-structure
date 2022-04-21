@@ -4,17 +4,18 @@
 
 Una collezione di risorse fighe e utili selezionate e curate dal team Devmy!
 
-# Indice
+## Indice
 
 [TOC]
 
-# Informatica
+## Informatica
 - ALgoritmi
 - Architettura Software
 - Git
-# Sviluppo Web
 
-## Front-End
+## Sviluppo Web
+
+### Front-End
 
 - [HTML](./frontend/html.md)
 - CSS
@@ -25,7 +26,7 @@ Una collezione di risorse fighe e utili selezionate e curate dal team Devmy!
     - Angular
     - Vue.js
 
-## Back-End
+### Back-End
 - Node.js
     - Express.js
     - Nest.js
@@ -33,29 +34,29 @@ Una collezione di risorse fighe e utili selezionate e curate dal team Devmy!
     - Laravel
     - Magento
 
-## Databases
+### Databases
 - MongoDB
 - MySQL
 
-# Sviluppo Mobile
+## Sviluppo Mobile
 - Flutter
 - React Native
 - iOS Nativo
 - Android Nativo
 
-# Sviluppo Desktop
+## Sviluppo Desktop
 - Electron.js
 
-# Sviluppo 3D / Videogiochi
+## Sviluppo 3D / Videogiochi
 - Unity
 - Unreal Engine
 - Three.js
 
-# Project Management
+## Project Management
 
 - Agile
 
-# Libreria
+## Libreria
 - Pragmatic Programmer
 
 ---
