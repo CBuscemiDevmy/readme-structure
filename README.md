@@ -3,24 +3,12 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme) [![CC BY 4.0][cc-by-shield]][cc-by]
 
 Una collezione di risorse fighe e utili selezionate e curate dal team Devmy!
-
-## Indice
-
-* [Informatica](#informatica)
-* [Sviluppo Web](#sviluppo-web)
-    * [Front-End](#front-end)
-    * [Back-End](#back-end)
-    * [Databases](#databases)
-* [Sviluppo Mobile](#sviluppo-mobile)
-* [Sviluppo Desktop](#sviluppo-desktop)
-* [Sviluppo 3D / Videogiochi](#sviluppo-3d---videogiochi)
-* [Project Management](#project-management)
-* [Libreria](#libreria)
-
 ## Informatica
-- Algoritmi
-- Architettura Software
+- Programmazione
+    - Algoritmi
+    - Architettura Software
 - Git
+- Bash
 
 ## Sviluppo Web
 
@@ -62,11 +50,14 @@ Una collezione di risorse fighe e utili selezionate e curate dal team Devmy!
 - Three.js
 
 ## Project Management
-
 - Agile
 
 ## Libreria
 - Pragmatic Programmer
+
+## Altro
+- Soft Skills
+- [Google It like a Senior Software Engineer](https://www.youtube.com/watch?v=cEBkvm0-rg0)
 
 ---
 
