@@ -6,10 +6,19 @@ Una collezione di risorse fighe e utili selezionate e curate dal team Devmy!
 
 ## Indice
 
-[TOC]
+* [Informatica](#informatica)
+* [Sviluppo Web](#sviluppo-web)
+    * [Front-End](#front-end)
+    * [Back-End](#back-end)
+    * [Databases](#databases)
+* [Sviluppo Mobile](#sviluppo-mobile)
+* [Sviluppo Desktop](#sviluppo-desktop)
+* [Sviluppo 3D / Videogiochi](#sviluppo-3d---videogiochi)
+* [Project Management](#project-management)
+* [Libreria](#libreria)
 
 ## Informatica
-- ALgoritmi
+- Algoritmi
 - Architettura Software
 - Git
 
