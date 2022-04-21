@@ -3,7 +3,8 @@
 ## Tools
 
 - [Figma](https://www.figma.com/)
-- Traversy Media - Figma Crash Course [![Traversy Media Crash Course](https://img.youtube.com/vi/4W4LvJnNegA/0.jpg)](https://www.youtube.com/watch?v=4W4LvJnNegA)
+- Traversy Media - Figma Crash Course
+[![Traversy Media Crash Course](https://img.youtube.com/vi/4W4LvJnNegA/0.jpg)](https://www.youtube.com/watch?v=4W4LvJnNegA)
 - [Adobe Color Wheel](https://color.adobe.com/create/color-wheel)
 
 ## Resources
