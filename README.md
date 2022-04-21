@@ -2,18 +2,21 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme) [![CC BY 4.0][cc-by-shield]][cc-by]
 
-Una collezione di risorse fighe e utili selezionate e curate dal team Devmy!
-## Informatica
-- Programmazione
-    - Algoritmi
-    - Architettura Software
+A curated list of awesome resources selected by Devmy team!
+
+## Computer Science
+- Programming
+    - Algorythms
+    - Software Architecture
 - Git
 - Bash
+- [Network](./computer-science/network.md)
 
-## Sviluppo Web
+## Web Development
 
 ### Front-End
 
+- [UX/UI Design](./frontend/design.md)
 - [HTML](./frontend/html.md)
 - CSS
 - JavaScript
@@ -31,20 +34,18 @@ Una collezione di risorse fighe e utili selezionate e curate dal team Devmy!
     - Laravel
     - Magento
 
-### Databases
+### Database
 - MongoDB
 - MySQL
 
-## Sviluppo Mobile
+## Mobile Development
 - Flutter
 - React Native
-- iOS Nativo
-- Android Nativo
 
-## Sviluppo Desktop
+## Desktop Development
 - Electron.js
 
-## Sviluppo 3D / Videogiochi
+## 3D / Game Development
 - Unity
 - Unreal Engine
 - Three.js
@@ -52,16 +53,16 @@ Una collezione di risorse fighe e utili selezionate e curate dal team Devmy!
 ## Project Management
 - Agile
 
-## Libreria
+## Book Library
 - Pragmatic Programmer
 
-## Altro
+## Other
 - Soft Skills
 - [Google It like a Senior Software Engineer](https://www.youtube.com/watch?v=cEBkvm0-rg0)
 
 ---
 
-Questa collezione è sotto licenza [Creative Commons Attribution 4.0 International License][cc-by].
+This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
 
 [![CC BY 4.0][cc-by-image]][cc-by]
 
