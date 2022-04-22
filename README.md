@@ -73,10 +73,18 @@ A curated list of awesome resources selected by Devmy team!
 - Electron.js
 
 ## 3D / Game Development
-- Unity
-- Unreal Engine
+- [Unity](./3D/unity.md)
+- [Unreal Engine](./3D/unreal-engine.md)
+- [Game Development](./3D/game-dev.md)
 - [Three.js](./3D/threejs.md)
 - [AFrame](./3D/aframe.md)
+
+## Operative Systems
+- Windows
+- Mac
+- Linux
+- Raspberry Pi
+- Chromebook
 
 ## Project Management
 - [Agile](./project-management/agile.md)
