@@ -20,23 +20,30 @@ A curated list of awesome resources selected by Devmy team!
 
 ## Web Development
 
-- [Network](./computer-science/network.md)
-- Hosting
-- Dev Tools
-- Package Management
-- Module Bundler
+- [Network](./web-dev/network.md)
+- [Hosting](./web-dev/hosting.md)
+- [Dev Tools](./web-dev/dev-tools.md)
+- [Package Management](./web-dev/package-management.md)
+- [Module Bundler](./web-dev/module-bundler.md)
+
+### General Resources
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)
+- [W3Schools](https://www.w3schools.com/default.asp)
+- [web.dev](https://web.dev/)
+- [HTML.it](https://www.html.it/)
+- [Zero To Mastery Resources](https://zerotomastery.io/resources/)
 ### Front-End
 
-- [UX/UI Design](./frontend/design.md)
+- [UX/UI Design](./web-dev/frontend/design.md)
     - Storybook
-- [HTML](./frontend/html.md)
+- [HTML](./web-dev/frontend/html.md)
 - CSS
 - JavaScript
 - TypeScript
 - Frameworks
     - React.js
         - Next.js
-    - [Angular](./frontend/angular.md)
+    - [Angular](./web-dev/frontend/angular.md)
     - Vue.js
 
 ### Back-End
