@@ -26,7 +26,7 @@ A curated list of awesome resources selected by Devmy team!
 - [Package Management](./web-dev/package-management.md)
 - [Module Bundler](./web-dev/module-bundler.md)
 
-### General Resources
+### Multi-Purpose Resources
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
 - [W3Schools](https://www.w3schools.com/default.asp)
 - [web.dev](https://web.dev/)
@@ -35,9 +35,9 @@ A curated list of awesome resources selected by Devmy team!
 ### Front-End
 
 - [UX/UI Design](./web-dev/frontend/design.md)
-    - Storybook
+    - [Storybook](./web-dev/frontend/storybook.md)
 - [HTML](./web-dev/frontend/html.md)
-- CSS
+- [CSS](./web-dev/frontend/css.md)
 - JavaScript
 - TypeScript
 - Frameworks
