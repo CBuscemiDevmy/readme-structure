@@ -7,8 +7,8 @@ A curated list of awesome resources selected by Devmy team!
 ## Computer Science
 - Programming
     - Algorythms
-    - Software Architecture
-- Git
+    - [Software Architecture](./computer-science/software-architecture.md)
+- [Git](./computer-science/git.md)
 - Bash
 
 ## Web Development
@@ -29,7 +29,7 @@ A curated list of awesome resources selected by Devmy team!
 - Frameworks
     - React.js
         - Next.js
-    - Angular
+    - [Angular](./frontend/angular.md)
     - Vue.js
 
 ### Back-End
@@ -45,7 +45,7 @@ A curated list of awesome resources selected by Devmy team!
 - MySQL
 
 ## Mobile Development
-- Flutter
+- [Flutter](./mobile/flutter.md)
 - React Native
 
 ## Desktop Development
@@ -58,7 +58,7 @@ A curated list of awesome resources selected by Devmy team!
 - AFrame
 
 ## Project Management
-- Agile
+- [Agile](./project-management/agile.md)
 
 ## Book Library
 - Pragmatic Programmer
