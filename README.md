@@ -38,8 +38,9 @@ A curated list of awesome resources selected by Devmy team!
     - [Storybook](./web-dev/frontend/storybook.md)
 - [HTML](./web-dev/frontend/html.md)
 - [CSS](./web-dev/frontend/css.md)
-- JavaScript
-- TypeScript
+- [JavaScript](./web-dev/frontend/javascript.md)
+- [TypeScript](./web-dev/frontend/typescript.md)
+- [Web App Optimization](./web-dev/frontend/web-app-optimization.md)
 - Frameworks
     - React.js
         - Next.js
