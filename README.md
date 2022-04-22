@@ -5,11 +5,18 @@
 A curated list of awesome resources selected by Devmy team!
 
 ## Computer Science
+- [Computer Science Crash Course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+- [History of Computer](https://www.youtube.com/playlist?list=PLXtTjtWmQhg0N08o_oSaAantmQAu-1Xad)
 - Programming
-    - Algorythms
+    - [Complexity](./computer-science/complexity.md)
+    - [Algorithms](./computer-science/algorithms.md)
     - [Software Architecture](./computer-science/software-architecture.md)
+    - [Regex101](https://regex101.com/)
+- Visual Studio Code
 - [Git](./computer-science/git.md)
-- Bash
+- [Bash](./computer-science/bash.md)
+- [SSH](./computer-science/ssh.md)
+- [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
 
 ## Web Development
 

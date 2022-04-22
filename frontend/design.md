@@ -4,7 +4,7 @@
 
 - [Figma](https://www.figma.com/)
 - [Traversy Media - Figma Crash Course](https://www.youtube.com/watch?v=4W4LvJnNegA)
-- [Adobe Color Wheel](https://color.adobe.com/create/color-wheel)
+- [Adobe Color Wheel](https://color.adobe.com/create/color-wheel) - Color palette generator
 
 ## Resources
 
