@@ -80,11 +80,10 @@ A curated list of awesome resources selected by Devmy team!
 - [AFrame](./3D/aframe.md)
 
 ## Operative Systems
-- Windows
-- Mac
-- Linux
-- Raspberry Pi
-- Chromebook
+- [Windows](./os/windows.md)
+- [Mac](./os/mac.md)
+- [Linux](./os/linux.md)
+- [Raspberry Pi](./os/raspberry.md)
 
 ## Project Management
 - [Agile](./project-management/agile.md)
