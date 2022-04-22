@@ -41,9 +41,10 @@ A curated list of awesome resources selected by Devmy team!
 - [JavaScript](./web-dev/frontend/javascript.md)
 - [TypeScript](./web-dev/frontend/typescript.md)
 - [Web App Optimization](./web-dev/frontend/web-app-optimization.md)
+- [Data Visualisation](./web-dev/frontend/data-visualisation.md)
 - Frameworks
-    - React.js
-        - Next.js
+    - [React.js](./web-dev/frontend/react.md)
+    - [Next.js](./web-dev/frontend/nextjs.md)
     - [Angular](./web-dev/frontend/angular.md)
     - Vue.js
 
@@ -69,8 +70,8 @@ A curated list of awesome resources selected by Devmy team!
 ## 3D / Game Development
 - Unity
 - Unreal Engine
-- Three.js
-- AFrame
+- [Three.js](./3D/threejs.md)
+- [AFrame](./3D/aframe.md)
 
 ## Project Management
 - [Agile](./project-management/agile.md)
