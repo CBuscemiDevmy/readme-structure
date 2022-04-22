@@ -99,3 +99,6 @@ git pull upstream master
 - [Git Explorer](https://gitexplorer.com) - Git Command Explorer
 - [Learn Git Branching](https://learngitbranching.js.org) - Learn how to create branches with Git
 - [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) - Git workflow that helps with continuous software development
+
+## Other
+- [Github Profile Makeover](https://www.youtube.com/watch?v=vblMsgrGjrw)

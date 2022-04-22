@@ -11,6 +11,7 @@
 - [PageSpeed Insights](https://pagespeed.web.dev/?utm_source=psi&utm_medium=redirect)
 - [Website Speed Test | Pingdom Tools](https://tools.pingdom.com/)
 - [The Only SEO Checklist You Need in 2021](https://ahrefs.com/blog/seo-checklist/)
+- [SEO for Developers in 100 seconds](https://www.youtube.com/watch?v=-B58GgsehKQ)
 
 # PWA
 - [PWA in 100 seconds](https://www.youtube.com/watch?v=sFsRylCQblw)

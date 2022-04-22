@@ -49,16 +49,21 @@ A curated list of awesome resources selected by Devmy team!
     - Vue.js
 
 ### Back-End
-- Node.js
-    - Express.js
+- [Node.js](./web-dev/backend/nodejs.md)
+    - [Express.js](./web-dev/backend/expressjs.md)
     - Nest.js
-- PHP
+- [PHP](./web-dev/backend/php.md)
     - Laravel
     - Magento
+    - [Wordpress](./web-dev/backend/wordpress.md)
 
 ### Database
-- MongoDB
+- [MongoDB](./web-dev/databases/mongodb.md)
+- [Firebase](./web-dev/databases/firebase.md)
 - MySQL
+
+### Full-Stack
+- [MERN](./web-dev/fullstack/mern.md)
 
 ## Mobile Development
 - [Flutter](./mobile/flutter.md)
