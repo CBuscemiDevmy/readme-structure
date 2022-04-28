@@ -4,19 +4,21 @@
 
 A curated list of awesome resources selected by Devmy team!
 
+---
+
 ## Computer Science
-- [Computer Science Crash Course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
-- [History of Computer](https://www.youtube.com/playlist?list=PLXtTjtWmQhg0N08o_oSaAantmQAu-1Xad)
-- Programming
-    - [Complexity](./computer-science/complexity.md)
-    - [Algorithms](./computer-science/algorithms.md)
-    - [Software Architecture](./computer-science/software-architecture.md)
-    - [Regex101](https://regex101.com/)
-- Visual Studio Code
-- [Git](./computer-science/git.md)
-- [Bash](./computer-science/bash.md)
+- [Computer Science Crash Course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) - How computer works
+- [Programming](https://www.youtube.com/playlist?list=PLXtTjtWmQhg0N08o_oSaAantmQAu-1Xad) - What to code means
+    - [Complexity & Algorithms](./computer-science/complexity-algo.md) - Measure complexity and explore different algorythms
+    - [Software Architecture](./computer-science/software-architecture.md) - Principles and design patterns of software
+    - [Regex101](https://regex101.com/) - Online tool to create regex
+- [Bash](./computer-science/bash.md) - Resources for the shell
+- [Git](./computer-science/git.md) - How to use this free and open source distributed version control system 
 - [SSH](./computer-science/ssh.md)
+- [Visual Studio Code Tips and Speed Hacks](https://www.youtube.com/watch?v=ifTF3ags0XI)
 - [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
+
+---
 
 ## Web Development
 
@@ -26,7 +28,7 @@ A curated list of awesome resources selected by Devmy team!
 - [Package Management](./web-dev/package-management.md)
 - [Module Bundler](./web-dev/module-bundler.md)
 
-### Multi-Purpose Resources
+### General Resources
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
 - [W3Schools](https://www.w3schools.com/default.asp)
 - [web.dev](https://web.dev/)
@@ -53,13 +55,13 @@ A curated list of awesome resources selected by Devmy team!
     - [Express.js](./web-dev/backend/expressjs.md)
     - Nest.js
 - [PHP](./web-dev/backend/php.md)
-    - Laravel
+    - [Laravel](https://www.youtube.com/watch?v=MYyJ4PuL4pY)
     - Magento
     - [Wordpress](./web-dev/backend/wordpress.md)
 
 ### BaaS
 - [Firebase](./web-dev/databases/firebase.md)
-- [Strapi Crash Course](https://youtu.be/6FnwAbd2SDY)
+- [Strapi](https://youtu.be/6FnwAbd2SDY)
 
 ### Database
 - [MongoDB](./web-dev/databases/mongodb.md)
@@ -68,13 +70,19 @@ A curated list of awesome resources selected by Devmy team!
 ### Full-Stack
 - [MERN](./web-dev/fullstack/mern.md)
 
+---
+
 ## Mobile Development
 - [Flutter](./mobile/flutter.md)
 - React Native
 - [Ionic / Capacitor](./mobile/ionic.md)
 
+---
+
 ## Desktop Development
 - Electron.js
+
+---
 
 ## 3D / Game Development
 - [Unity](./3D/unity.md)
@@ -83,21 +91,28 @@ A curated list of awesome resources selected by Devmy team!
 - [Three.js](./3D/threejs.md)
 - [AFrame](./3D/aframe.md)
 
+---
+
 ## Operative Systems
 - [Windows](./os/windows.md)
 - [Mac](./os/mac.md)
 - [Linux](./os/linux.md)
 - [Raspberry Pi](./os/raspberry.md)
 
+---
+
 ## Project Management
 - [Agile](./project-management/agile.md)
 
-## Book Library
-- Pragmatic Programmer
+---
 
 ## Other
+
 - Soft Skills
 - [Google It like a Senior Software Engineer](https://www.youtube.com/watch?v=cEBkvm0-rg0)
+
+## Book Library
+- Pragmatic Programmer
 
 ---
 

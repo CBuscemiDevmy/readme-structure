@@ -1,6 +1,9 @@
 # Bash
 
+## Videos
+
 - [Bash in 100 seconds](https://www.youtube.com/watch?v=I4EWvMFj37g)
+- [Basic cURL Tutorial](https://www.youtube.com/watch?v=7XUibDYw4mc)
 
 ## Common CMDs
 
@@ -49,10 +52,6 @@
 `man ls` get the manual from that command
 
 `clear` clear terminal
-
-## Videos
-
-- [Basic cURL Tutorial](https://www.youtube.com/watch?v=7XUibDYw4mc)
 
 ## Nano
 
