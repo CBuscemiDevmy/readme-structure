@@ -57,9 +57,12 @@ A curated list of awesome resources selected by Devmy team!
     - Magento
     - [Wordpress](./web-dev/backend/wordpress.md)
 
+### BaaS
+- [Firebase](./web-dev/databases/firebase.md)
+- [Strapi Crash Course](https://youtu.be/6FnwAbd2SDY)
+
 ### Database
 - [MongoDB](./web-dev/databases/mongodb.md)
-- [Firebase](./web-dev/databases/firebase.md)
 - MySQL
 
 ### Full-Stack
@@ -68,6 +71,7 @@ A curated list of awesome resources selected by Devmy team!
 ## Mobile Development
 - [Flutter](./mobile/flutter.md)
 - React Native
+- [Ionic / Capacitor](./mobile/ionic.md)
 
 ## Desktop Development
 - Electron.js

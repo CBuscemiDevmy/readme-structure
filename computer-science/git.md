@@ -102,3 +102,4 @@ git pull upstream master
 
 ## Other
 - [Github Profile Makeover](https://www.youtube.com/watch?v=vblMsgrGjrw)
+- [Conventional Commit](https://www.conventionalcommits.org/en/v1.0.0/)

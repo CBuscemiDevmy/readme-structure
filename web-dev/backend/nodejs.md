@@ -3,6 +3,7 @@
 - [Node.js](https://nodejs.org/en/)
 - [Introduction to Node.js](https://nodejs.dev/learn)
 - [Installing nodejs using nvm](https://www.youtube.com/watch?v=4NUR6kIoZkA)
+- [Install Node.js Locally with Node Version Manager (nvm)](https://heynode.com/tutorial/install-nodejs-locally-nvm/)
 - [Traversy Media - Node.js Crash Course](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
 - [Node.js Ultiimate Beginner's Guide in 7 steps](https://www.youtube.com/watch?v=ENrzD9HAZK4)
 - [Fix CORS](https://www.youtube.com/watch?v=PNtFSVU-YTI)

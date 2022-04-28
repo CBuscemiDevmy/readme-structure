@@ -44,6 +44,7 @@
 # Optimization
 - [Async VS Defer](https://www.youtube.com/watch?v=BMuFBYw91UQ)
 - [4 Types of Memory Leaks in JavaScript and How to Get Rid Of Them](https://levelup.gitconnected.com/4-types-of-memory-leaks-in-javascript-and-how-to-get-rid-of-them-25137bed51cf)
+- [Web Workers Explained](https://youtu.be/Gcp7triXFjg)
 
 # JS Engine
 - [JavaScript Event Loop Explained. “How is JavaScript asynchronous" by Anoop Raveendran](https://medium.com/front-end-weekly/javascript-event-loop-explained-4cd26af121d4)

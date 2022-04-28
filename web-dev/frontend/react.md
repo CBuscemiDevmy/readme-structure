@@ -57,6 +57,7 @@
 # Global State Managers
 
 ## Redux Toolkit
+- [Redux in 100 Seconds](https://youtu.be/_shA5Xwe8_4)
 - [Redux Essentials Overview and Concepts](https://redux.js.org/tutorials/essentials/part-1-overview-concepts)
 - [Redux Toolkit Quick Start](https://redux-toolkit.js.org/tutorials/quick-start)
 - [Redux DevTools - Chrome Web Store](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd/related?hl=en)
@@ -83,9 +84,13 @@
 
 # Optimization and Testing
 
+- [React TypeScript Tutorial for Beginners](https://youtube.com/playlist?list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK)
 - [5 React performance optimization techniques - LogRocket Blog](https://blog.logrocket.com/5-react-performance-optimization-techniques/)
 - [Optimizing performance in a React application](https://blog.logrocket.com/optimizing-performance-react-application/)
 - [How to write performant React code: rules, patterns, do's and don'ts](https://www.developerway.com/posts/how-to-write-performant-react-code)
+- [React lazy loading with React.lazy](https://youtu.be/R6KGT8Omi7o)
+- [Understanding Reconciliation: React Rendering Phases](https://dev.to/thee_divide/reconciliation-react-rendering-phases-56g2)
+- [How many re-renders is too many?](https://alexsidorenko.com/blog/react-how-many-rerenders/)
 - [React Testing Crash Course](https://www.youtube.com/watch?v=OVNjsIto9xM)
 
 # Architecture
@@ -106,3 +111,4 @@
 - [React Calendar](https://github.com/wojtekmaj/react-calendar)
 - [Axios Mock Adapter](https://github.com/ctimmerm/axios-mock-adapter)
 - [JSX Namespacing](https://medium.com/@kunukn_95852/react-components-with-namespace-f3d169feaf91)
+- [React Three Fiber 3D](https://github.com/pmndrs/react-three-fiber)

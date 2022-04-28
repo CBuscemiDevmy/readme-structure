@@ -4,3 +4,4 @@
 - [Homebrew on macOS](https://www.youtube.com/watch?v=1uvr9-zUB3w)
 - [Oh My Zsh - a delightful & open source framework for Zsh](https://ohmyz.sh/#install)
 - [Running Visual Studio Code on macOS](https://code.visualstudio.com/docs/setup/mac)
+- [Fix cmd `code .`](https://stackoverflow.com/questions/29955500/code-is-not-working-in-on-the-command-line-for-visual-studio-code-on-os-x-ma)
