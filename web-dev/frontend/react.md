@@ -25,6 +25,7 @@
 - [UseLayoutEffect in 5 minutes](https://www.youtube.com/watch?v=wU57kvYOxT4)
 - [When to useLayoutEffect Instead of useEffect](https://daveceddia.com/useeffect-vs-uselayouteffect/)
 - [useMediaQuery](https://github.com/antonioru/beautiful-react-hooks/blob/master/docs/useMediaQuery.md)
+- [Awesome React Hooks](https://github.com/rehooks/awesome-react-hooks)
 
 ## Refs
 - [Learn useRef in 11 minutes](https://www.youtube.com/watch?v=t2ypzz6gJm0)
@@ -44,6 +45,7 @@
 
 - [Ahooks](https://ahooks.js.org/hooks/async)
 - [10 React community hooks you should be using](https://dev.to/dawsoncodes/10-react-community-hooks-1h6c)
+- [Rehooks - React Hooks for Everything](https://github.com/rehooks)
 
 # Virtual DOM
 - [React and the Virtual DOM](https://www.youtube.com/watch?v=BYbgopx44vo)
@@ -64,6 +66,10 @@
 - [Action listener middleware](https://github.com/reduxjs/redux-toolkit/discussions/1648)
 - [Introduzione a Redux Toolkit](https://www.youtube.com/watch?v=maJRIabnuPw)
 - [Redux Toolkit Tutorial](https://www.youtube.com/watch?v=iBUJVy8phqw)
+
+## Recoil
+- [Recoil - A state management library for React](https://recoiljs.org/)
+- [Recoil: State Management for Today's React](https://www.youtube.com/watch?v=_ISAA_Jt9kI)
 
 ## Zustand
 - [Zustand State Management Tutorial](https://www.youtube.com/watch?v=jLcF0Az1nx8)

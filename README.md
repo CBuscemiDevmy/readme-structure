@@ -44,6 +44,7 @@ A curated list of awesome resources selected by Devmy team!
 - [TypeScript](./web-dev/frontend/typescript.md)
 - [Web App Optimization](./web-dev/frontend/web-app-optimization.md)
 - [Data Visualisation](./web-dev/frontend/data-visualisation.md)
+- [CMS](./web-dev/cms/cms.md)
 - Frameworks
     - [React.js](./web-dev/frontend/react.md)
     - [Next.js](./web-dev/frontend/nextjs.md)
@@ -74,7 +75,7 @@ A curated list of awesome resources selected by Devmy team!
 
 ## Mobile Development
 - [Flutter](./mobile/flutter.md)
-- React Native
+- [React Native](./mobile/react-native.md)
 - [Ionic / Capacitor](./mobile/ionic.md)
 
 ---

@@ -7,7 +7,7 @@
 - [Compress Video, Image, Audio and PDF Files Online | YouCompress](https://www.youcompress.com/)
 
 # Performances Analysis
-- [Lighthouse | Tools for Web Developers | Google Developers](https://developers.google.com/web/tools/lighthouse)
+- [Lighthouse | Tools for Web Developers | Google Developers](https://developers.google.com/web/tools/lighthouse)
 - [PageSpeed Insights](https://pagespeed.web.dev/?utm_source=psi&utm_medium=redirect)
 - [Website Speed Test | Pingdom Tools](https://tools.pingdom.com/)
 - [The Only SEO Checklist You Need in 2021](https://ahrefs.com/blog/seo-checklist/)
